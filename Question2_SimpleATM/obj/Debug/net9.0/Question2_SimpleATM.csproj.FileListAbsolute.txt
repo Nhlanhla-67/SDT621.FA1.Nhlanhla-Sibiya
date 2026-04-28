@@ -1,0 +1,15 @@
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\SDT621.FA1.Nhlanhla-Sibiya\Question2_SimpleATM\bin\Debug\net9.0\Question2_SimpleATM.exe
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\SDT621.FA1.Nhlanhla-Sibiya\Question2_SimpleATM\bin\Debug\net9.0\Question2_SimpleATM.deps.json
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\SDT621.FA1.Nhlanhla-Sibiya\Question2_SimpleATM\bin\Debug\net9.0\Question2_SimpleATM.runtimeconfig.json
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\SDT621.FA1.Nhlanhla-Sibiya\Question2_SimpleATM\bin\Debug\net9.0\Question2_SimpleATM.dll
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\SDT621.FA1.Nhlanhla-Sibiya\Question2_SimpleATM\bin\Debug\net9.0\Question2_SimpleATM.pdb
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\SDT621.FA1.Nhlanhla-Sibiya\Question2_SimpleATM\obj\Debug\net9.0\Question2_SimpleATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\SDT621.FA1.Nhlanhla-Sibiya\Question2_SimpleATM\obj\Debug\net9.0\Question2_SimpleATM.AssemblyInfoInputs.cache
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\SDT621.FA1.Nhlanhla-Sibiya\Question2_SimpleATM\obj\Debug\net9.0\Question2_SimpleATM.AssemblyInfo.cs
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\SDT621.FA1.Nhlanhla-Sibiya\Question2_SimpleATM\obj\Debug\net9.0\Question2_SimpleATM.csproj.CoreCompileInputs.cache
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\SDT621.FA1.Nhlanhla-Sibiya\Question2_SimpleATM\obj\Debug\net9.0\Question2_SimpleATM.sourcelink.json
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\SDT621.FA1.Nhlanhla-Sibiya\Question2_SimpleATM\obj\Debug\net9.0\Question2_SimpleATM.dll
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\SDT621.FA1.Nhlanhla-Sibiya\Question2_SimpleATM\obj\Debug\net9.0\refint\Question2_SimpleATM.dll
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\SDT621.FA1.Nhlanhla-Sibiya\Question2_SimpleATM\obj\Debug\net9.0\Question2_SimpleATM.pdb
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\SDT621.FA1.Nhlanhla-Sibiya\Question2_SimpleATM\obj\Debug\net9.0\Question2_SimpleATM.genruntimeconfig.cache
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\SDT621.FA1.Nhlanhla-Sibiya\Question2_SimpleATM\obj\Debug\net9.0\ref\Question2_SimpleATM.dll
