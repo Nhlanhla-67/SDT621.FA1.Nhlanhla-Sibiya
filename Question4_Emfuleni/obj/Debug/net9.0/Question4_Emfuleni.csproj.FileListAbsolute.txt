@@ -1,0 +1,15 @@
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question4_Emfuleni\bin\Debug\net9.0\Question4_Emfuleni.exe
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question4_Emfuleni\bin\Debug\net9.0\Question4_Emfuleni.deps.json
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question4_Emfuleni\bin\Debug\net9.0\Question4_Emfuleni.runtimeconfig.json
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question4_Emfuleni\bin\Debug\net9.0\Question4_Emfuleni.dll
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question4_Emfuleni\bin\Debug\net9.0\Question4_Emfuleni.pdb
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question4_Emfuleni\obj\Debug\net9.0\Question4_Emfuleni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question4_Emfuleni\obj\Debug\net9.0\Question4_Emfuleni.AssemblyInfoInputs.cache
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question4_Emfuleni\obj\Debug\net9.0\Question4_Emfuleni.AssemblyInfo.cs
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question4_Emfuleni\obj\Debug\net9.0\Question4_Emfuleni.csproj.CoreCompileInputs.cache
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question4_Emfuleni\obj\Debug\net9.0\Question4_Emfuleni.sourcelink.json
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question4_Emfuleni\obj\Debug\net9.0\Question4_Emfuleni.dll
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question4_Emfuleni\obj\Debug\net9.0\refint\Question4_Emfuleni.dll
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question4_Emfuleni\obj\Debug\net9.0\Question4_Emfuleni.pdb
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question4_Emfuleni\obj\Debug\net9.0\Question4_Emfuleni.genruntimeconfig.cache
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question4_Emfuleni\obj\Debug\net9.0\ref\Question4_Emfuleni.dll

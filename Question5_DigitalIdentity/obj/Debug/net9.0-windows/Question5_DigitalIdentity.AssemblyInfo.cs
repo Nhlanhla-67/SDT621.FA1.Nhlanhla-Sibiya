@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Question5_DigitalIdentity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db22130a1f42f46fa7e83a2e5e61f97f53bc27f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+126e9bff31143cbc7ea13d0d6e0c22e6936a89cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Question5_DigitalIdentity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Question5_DigitalIdentity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

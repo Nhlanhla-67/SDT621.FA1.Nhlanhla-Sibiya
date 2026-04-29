@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Question4_Emfuleni")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3919dce4fdc62d737c49357aaf421c2e210d964")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+126e9bff31143cbc7ea13d0d6e0c22e6936a89cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Question4_Emfuleni")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Question4_Emfuleni")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

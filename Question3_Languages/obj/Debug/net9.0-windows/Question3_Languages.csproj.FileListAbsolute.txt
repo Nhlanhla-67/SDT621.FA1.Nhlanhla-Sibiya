@@ -1,0 +1,15 @@
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question3_Languages\bin\Debug\net9.0-windows\Question3_Languages.exe
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question3_Languages\bin\Debug\net9.0-windows\Question3_Languages.deps.json
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question3_Languages\bin\Debug\net9.0-windows\Question3_Languages.runtimeconfig.json
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question3_Languages\bin\Debug\net9.0-windows\Question3_Languages.dll
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question3_Languages\bin\Debug\net9.0-windows\Question3_Languages.pdb
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question3_Languages\obj\Debug\net9.0-windows\Question3_Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question3_Languages\obj\Debug\net9.0-windows\Question3_Languages.AssemblyInfoInputs.cache
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question3_Languages\obj\Debug\net9.0-windows\Question3_Languages.AssemblyInfo.cs
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question3_Languages\obj\Debug\net9.0-windows\Question3_Languages.csproj.CoreCompileInputs.cache
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question3_Languages\obj\Debug\net9.0-windows\Question3_Languages.sourcelink.json
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question3_Languages\obj\Debug\net9.0-windows\Question3_Languages.dll
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question3_Languages\obj\Debug\net9.0-windows\refint\Question3_Languages.dll
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question3_Languages\obj\Debug\net9.0-windows\Question3_Languages.pdb
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question3_Languages\obj\Debug\net9.0-windows\Question3_Languages.genruntimeconfig.cache
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question3_Languages\obj\Debug\net9.0-windows\ref\Question3_Languages.dll

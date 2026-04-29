@@ -1,0 +1,15 @@
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question5_DigitalIdentity\bin\Debug\net9.0-windows\Question5_DigitalIdentity.exe
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question5_DigitalIdentity\bin\Debug\net9.0-windows\Question5_DigitalIdentity.deps.json
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question5_DigitalIdentity\bin\Debug\net9.0-windows\Question5_DigitalIdentity.runtimeconfig.json
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question5_DigitalIdentity\bin\Debug\net9.0-windows\Question5_DigitalIdentity.dll
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question5_DigitalIdentity\bin\Debug\net9.0-windows\Question5_DigitalIdentity.pdb
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question5_DigitalIdentity\obj\Debug\net9.0-windows\Question5_DigitalIdentity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question5_DigitalIdentity\obj\Debug\net9.0-windows\Question5_DigitalIdentity.AssemblyInfoInputs.cache
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question5_DigitalIdentity\obj\Debug\net9.0-windows\Question5_DigitalIdentity.AssemblyInfo.cs
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question5_DigitalIdentity\obj\Debug\net9.0-windows\Question5_DigitalIdentity.csproj.CoreCompileInputs.cache
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question5_DigitalIdentity\obj\Debug\net9.0-windows\Question5_DigitalIdentity.sourcelink.json
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question5_DigitalIdentity\obj\Debug\net9.0-windows\Question5_DigitalIdentity.dll
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question5_DigitalIdentity\obj\Debug\net9.0-windows\refint\Question5_DigitalIdentity.dll
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question5_DigitalIdentity\obj\Debug\net9.0-windows\Question5_DigitalIdentity.pdb
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question5_DigitalIdentity\obj\Debug\net9.0-windows\Question5_DigitalIdentity.genruntimeconfig.cache
+C:\Users\sibiy\OneDrive\Desktop\SDT621.FA1.Nhlanhla-Sibiya\Question5_DigitalIdentity\obj\Debug\net9.0-windows\ref\Question5_DigitalIdentity.dll

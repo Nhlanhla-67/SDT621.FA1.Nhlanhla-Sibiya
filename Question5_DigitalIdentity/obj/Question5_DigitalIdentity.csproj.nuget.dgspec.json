@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sibiy\\OneDrive\\Desktop\\SDT621.FA1.Nhlanhla-Sibiya\\SDT621.FA1.Nhlanhla-Sibiya\\Question5_DigitalIdentity\\Question5_DigitalIdentity.csproj": {}
+    "C:\\Users\\sibiy\\OneDrive\\Desktop\\SDT621.FA1.Nhlanhla-Sibiya\\Question5_DigitalIdentity\\Question5_DigitalIdentity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sibiy\\OneDrive\\Desktop\\SDT621.FA1.Nhlanhla-Sibiya\\SDT621.FA1.Nhlanhla-Sibiya\\Question5_DigitalIdentity\\Question5_DigitalIdentity.csproj": {
+    "C:\\Users\\sibiy\\OneDrive\\Desktop\\SDT621.FA1.Nhlanhla-Sibiya\\Question5_DigitalIdentity\\Question5_DigitalIdentity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sibiy\\OneDrive\\Desktop\\SDT621.FA1.Nhlanhla-Sibiya\\SDT621.FA1.Nhlanhla-Sibiya\\Question5_DigitalIdentity\\Question5_DigitalIdentity.csproj",
+        "projectUniqueName": "C:\\Users\\sibiy\\OneDrive\\Desktop\\SDT621.FA1.Nhlanhla-Sibiya\\Question5_DigitalIdentity\\Question5_DigitalIdentity.csproj",
         "projectName": "Question5_DigitalIdentity",
-        "projectPath": "C:\\Users\\sibiy\\OneDrive\\Desktop\\SDT621.FA1.Nhlanhla-Sibiya\\SDT621.FA1.Nhlanhla-Sibiya\\Question5_DigitalIdentity\\Question5_DigitalIdentity.csproj",
+        "projectPath": "C:\\Users\\sibiy\\OneDrive\\Desktop\\SDT621.FA1.Nhlanhla-Sibiya\\Question5_DigitalIdentity\\Question5_DigitalIdentity.csproj",
         "packagesPath": "C:\\Users\\sibiy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sibiy\\OneDrive\\Desktop\\SDT621.FA1.Nhlanhla-Sibiya\\SDT621.FA1.Nhlanhla-Sibiya\\Question5_DigitalIdentity\\obj\\",
+        "outputPath": "C:\\Users\\sibiy\\OneDrive\\Desktop\\SDT621.FA1.Nhlanhla-Sibiya\\Question5_DigitalIdentity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net9.0-windows7.0": {
@@ -69,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
